@@ -199,7 +199,7 @@ body {
 }
 
 
-@media screen and (min-width:766px) and (max-width:1100px){
+@media screen and (min-width:778px) and (max-width:1100px){
     .circle {
         width: 120px;
         height: 120px;
@@ -211,13 +211,14 @@ body {
 
     .lastCol {
         display: none;
-    }    
+    } 
+    
     .secCol {
         margin-right: 0;
     }
 }
 
-@media screen and (max-width:765px){
+@media screen and (max-width:777px){
     
     .nav-bar {
         display: none;
